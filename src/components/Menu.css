@@ -1,0 +1,165 @@
+.menu-banner {
+  margin-top: 5rem;
+  font-size: 25px;
+  margin-left: 7rem;
+  display: flex;
+}
+.menu-button {
+  margin-left: 35rem;
+  float: right;
+  margin-right: 7rem;
+  font-size: 15px;
+  border-radius: 30px;
+  background: #f4ce14;
+  text-transform: uppercase;
+  color: #495e57;
+  font-weight: bold;
+  padding: 15px 30px;
+  outline: none;
+  position: relative;
+  transition: border-radius 3s;
+  -webkit-transition: border-radius 3s;
+}
+
+/* .menu-card {
+  display: flex;
+} */
+
+.meals {
+  display: flex;
+  margin-top: 3rem;
+  margin-left: 7rem;
+  margin-right: 7rem;
+  margin-bottom: 3rem;
+}
+
+.section1 {
+  border-radius: 15px;
+  color: #495e57;
+  background-color: #edefee;
+  background-blend-mode: multiply;
+  margin-right: 20px;
+}
+.section1 img:hover {
+  transform: scale(1.1);
+}
+.section1 img {
+  transition: all ease-in-out 0.3s;
+}
+.mealheader1 {
+  display: flex;
+}
+.section1 h3 {
+  font-size: 18px;
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
+.section1 span {
+  font-size: 18px;
+  margin-top: 1rem;
+  margin-left: 7rem;
+  font-weight: bold;
+  color: chocolate;
+}
+.section1 p {
+  margin-top: 2rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+.section1 button {
+  margin-top: 2rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  font-size: 16px;
+  font-weight: bold;
+  color: #495e57;
+}
+
+.section2 {
+  border-radius: 15px;
+  color: #495e57;
+  background-color: #edefee;
+  background-blend-mode: multiply;
+  margin-right: 20px;
+}
+.mealheader2 {
+  display: flex;
+}
+.section2 img:hover {
+  transform: scale(1.1);
+}
+.section2 img {
+  width: 19.5rem;
+  height: 12.5rem;
+  transition: all ease-in-out 0.3s;
+}
+.section2 h3 {
+  font-size: 18px;
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
+.section2 span {
+  font-size: 18px;
+  margin-top: 1rem;
+  margin-left: 7rem;
+  font-weight: bold;
+  color: chocolate;
+}
+.section2 p {
+  margin-top: 2rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+.section2 button {
+  margin-top: 2rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  font-size: 16px;
+  font-weight: bold;
+  color: #495e57;
+}
+
+.section3 {
+  border-radius: 15px;
+  color: #495e57;
+  background-color: #edefee;
+  background-blend-mode: multiply;
+  margin-right: 20px;
+}
+.mealheader3 {
+  display: flex;
+}
+.section3 img:hover {
+  transform: scale(1.1);
+}
+.section3 img {
+  width: 19.5rem;
+  height: 12.5rem;
+  transition: all ease-in-out 0.3s;
+}
+.section3 h3 {
+  font-size: 18px;
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
+.section3 span {
+  font-size: 18px;
+  margin-top: 1rem;
+  margin-left: 7rem;
+  font-weight: bold;
+  color: chocolate;
+}
+.section3 p {
+  margin-top: 2rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+.section3 button {
+  margin-top: 2rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  font-size: 16px;
+  font-weight: bold;
+  color: #495e57;
+}

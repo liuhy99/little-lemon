@@ -1,0 +1,217 @@
+.rsv-header {
+  padding-top: 1.875rem;
+  height: 350px;
+  background-color: #495e57;
+  background-position: top center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.rsv-header h2 {
+  margin-left: 12rem;
+  color: #f4ce14;
+}
+.rsv-option {
+  display: flex;
+}
+.radio1 {
+  margin-left: 12rem;
+  margin-top: 2rem;
+  margin-right: 13rem;
+  display: flex;
+  color: white;
+  font-weight: bold;
+  align-items: center;
+}
+.radio2 {
+  margin-top: 2rem;
+  display: flex;
+  color: white;
+  font-weight: bold;
+  align-items: center;
+}
+.input1 {
+  margin-left: 3rem;
+}
+.input2 {
+  margin-left: 3rem;
+}
+
+.details1 {
+  display: flex;
+  margin-left: 12rem;
+  margin-top: 1rem;
+  color: white;
+}
+.p1-1 {
+  margin-right: 25.5rem;
+}
+.p1-2 {
+  margin-left: 5rem;
+}
+.button1 {
+  display: flex;
+  margin-left: 12rem;
+  margin-top: 0.5rem;
+}
+.button1-1 button {
+  margin-right: 18.8rem;
+  display: inline-block;
+  padding: 10px 63px;
+  font-size: 17px;
+  font-weight: bold;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  color: #495e57;
+  background-color: #edefee;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+.button1-1 button:hover {
+  background-color: #f4ce14;
+}
+.button1-1 button:active {
+  background-color: #f4ce14;
+  box-shadow: 0 5px #666;
+  transform: translate(4px);
+}
+.button1-2 button {
+  display: inline-block;
+  padding: 10px 60px;
+  font-size: 17px;
+  font-weight: bold;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  color: #495e57;
+  background-color: #edefee;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+.button1-2 button:hover {
+  background-color: #f4ce14;
+}
+.button1-2 button:active {
+  background-color: #f4ce14;
+  box-shadow: 0 5px #666;
+  transform: translate(4px);
+}
+.details2 {
+  display: flex;
+  margin-left: 12rem;
+  margin-top: 1.7rem;
+  color: white;
+}
+.p2-1 {
+  margin-right: 25.5rem;
+}
+.p2-2 {
+  margin-left: 3rem;
+}
+.button2 {
+  display: flex;
+  margin-left: 12rem;
+  margin-top: 0.5rem;
+}
+.button2-1 button {
+  margin-right: 19rem;
+  display: inline-block;
+  padding: 10px 70px;
+  font-size: 17px;
+  font-weight: bold;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  color: #495e57;
+  background-color: #edefee;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+.button2-1 button:hover {
+  background-color: #f4ce14;
+}
+.button2-1 button:active {
+  background-color: #f4ce14;
+  box-shadow: 0 5px #666;
+  transform: translate(4px);
+}
+.button2-2 button {
+  display: inline-block;
+  padding: 10px 70px;
+  font-size: 17px;
+  font-weight: bold;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  color: #495e57;
+  background-color: #edefee;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+.button2-2 button:hover {
+  background-color: #f4ce14;
+}
+.button2-2 button:active {
+  background-color: #f4ce14;
+  box-shadow: 0 5px #666;
+  transform: translate(4px);
+}
+
+.rsv-imgs {
+  margin-top: 5rem;
+  margin-left: 12rem;
+  display: flex;
+  padding-right: 3rem;
+}
+.rsvimg1 {
+  margin-right: 5rem;
+  width: 20%;
+  height: 20%;
+}
+.rsvimg1 img {
+  border-radius: 15px;
+  box-shadow: 0 12px 8px -12px #000;
+}
+.rsvimg2 {
+  margin-right: 5rem;
+  height: 20%;
+  width: 20%;
+}
+.rsvimg2 img {
+  border-radius: 15px;
+  box-shadow: 0 12px 8px -12px #000;
+}
+.rsvimg3 {
+  /* margin-right: 3rem; */
+  height: 20%;
+  width: 20%;
+}
+.rsvimg3 img {
+  border-radius: 15px;
+  box-shadow: 0 12px 8px -12px #000;
+}
+.rsv-footer-button {
+  margin-left: 31rem;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  font-size: 17px;
+  padding: 10px 50px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  background-color: #f4ce14;
+  border: none;
+  border-radius: 15px;
+}
+.rsv-footer-button:hover {
+  background-color: #495e57;
+}
+.rsv-footer-button:active {
+  background-color: #495e57;
+  transform: translate(4px);
+}

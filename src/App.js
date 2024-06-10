@@ -1,25 +1,45 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react"
+import NavBar from "./components/NavBar"
+import Banner from "./components/Banner"
+import Menu from "./components/Menu"
+import Evaluate from "./components/Evaluate"
+import OurStory from "./components/OurStory"
+import Footer from "./components/Footer"
+import Home from "./components/Home"
+import Reservation from "./components/Reservation"
+import Confirmed from "./components/Confirmed"
 
-function App() {
+
+import './App.css'
+
+import { Route, Routes } from "react-router-dom"
+
+function App () {
+
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
+
+      <Routes>
+        <Route path="/home" element={<Home />} />
+      </Routes>
+      <Routes>
+        <Route path="/reservation" element={<Reservation />} />
+      </Routes>
+      <Routes>
+        <Route path="/confirmed" element={<Confirmed />} />
+      </Routes>
+
+
+
+
+
+
+
+
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

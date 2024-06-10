@@ -1,0 +1,125 @@
+.evaluate {
+  padding-top: 1.875rem;
+  padding-bottom: 2rem;
+  height: 500px;
+  background-color: #495e57;
+  background-position: top center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.evaluate h3 {
+  margin-top: 1rem;
+  margin-left: 7rem;
+  color: white;
+  font-size: 25px;
+  margin-bottom: 20px;
+  display: block;
+}
+
+.personal-evaluate {
+  display: flex;
+  margin-top: 1rem;
+  margin-left: 7rem;
+  margin-right: 7rem;
+  margin-bottom: 3rem;
+}
+.evaluate1 {
+  margin-top: 2rem;
+  border-radius: 15px;
+  color: #495e57;
+  background-color: white;
+  background-blend-mode: multiply;
+  margin-right: 20px;
+}
+.evaluate1 img {
+  margin-top: 2rem;
+  margin-left: 3rem;
+  width: 60%;
+  height: 35%;
+  border-radius: 100px;
+}
+.evaluate1 h5 {
+  margin-left: 4.5rem;
+}
+.evaluate1 p {
+  margin-top: 2rem;
+  margin-left: 1rem;
+  margin-bottom: 2rem;
+  margin-right: 0.5rem;
+}
+
+.evaluate2 {
+  margin-top: 2rem;
+  border-radius: 15px;
+  color: #495e57;
+  background-color: white;
+  background-blend-mode: multiply;
+  margin-right: 20px;
+}
+.evaluate2 img {
+  margin-top: 2rem;
+  margin-left: 3rem;
+  width: 60%;
+  height: 35%;
+  border-radius: 100px;
+}
+.evaluate2 h5 {
+  margin-left: 4.5rem;
+}
+.evaluate2 p {
+  margin-top: 2rem;
+  margin-left: 1rem;
+  margin-bottom: 2rem;
+  margin-right: 1rem;
+}
+
+.evaluate3 {
+  margin-top: 2rem;
+  border-radius: 15px;
+  color: #495e57;
+  background-color: white;
+  background-blend-mode: multiply;
+  margin-right: 20px;
+}
+.evaluate3 img {
+  margin-top: 2rem;
+  margin-left: 3rem;
+  width: 60%;
+  height: 35%;
+  border-radius: 100px;
+}
+.evaluate3 h5 {
+  margin-left: 4.5rem;
+}
+.evaluate3 p {
+  margin-top: 2rem;
+  margin-left: 1rem;
+  margin-bottom: 2rem;
+  margin-right: 1rem;
+}
+
+.evaluate4 {
+  margin-top: 2rem;
+  border-radius: 15px;
+  color: #495e57;
+  background-color: white;
+  background-blend-mode: multiply;
+  margin-right: 20px;
+}
+.evaluate4 img {
+  margin-top: 2rem;
+  margin-left: 3rem;
+  width: 60%;
+  height: 35%;
+  border-radius: 100px;
+}
+.evaluate4 h5 {
+  margin-left: 4.5rem;
+}
+.evaluate4 p {
+  margin-top: 2rem;
+  margin-left: 1rem;
+  margin-bottom: 2rem;
+  margin-right: 1rem;
+}

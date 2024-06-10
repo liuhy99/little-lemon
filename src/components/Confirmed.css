@@ -1,0 +1,127 @@
+.con-header {
+  padding-top: 1.875rem;
+  height: 600px;
+  background-color: #495e57;
+  background-position: top center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.con-info1 {
+  color: white;
+  margin-left: 12rem;
+  margin-top: 1rem;
+  display: flex;
+}
+.info1 {
+  margin-right: 25rem;
+}
+
+.input1 {
+  display: flex;
+  margin-left: 12rem;
+  margin-top: 0.5rem;
+}
+.firstname {
+  margin-right: 18rem;
+  width: 15rem;
+  height: 2rem;
+}
+.lastname {
+  width: 15rem;
+  height: 2rem;
+}
+.con-info2 {
+  color: white;
+  margin-left: 12rem;
+  margin-top: 2rem;
+  display: flex;
+}
+.info2 {
+  margin-right: 27rem;
+}
+.input2 {
+  display: flex;
+  margin-left: 12rem;
+  margin-top: 0.5rem;
+}
+.email {
+  margin-right: 18rem;
+  width: 15rem;
+  height: 2rem;
+}
+.phone {
+  width: 15rem;
+  height: 2rem;
+}
+
+.request {
+  color: white;
+  margin-left: 12rem;
+  margin-top: 2rem;
+}
+.imput3 {
+  margin-left: 12rem;
+  margin-top: 0.5rem;
+}
+.imput3 textarea {
+  width: 25rem;
+  height: 7rem;
+  resize: none;
+}
+
+.con-imgs {
+  margin-top: 3rem;
+  margin-left: 12rem;
+  display: flex;
+  padding-right: 3rem;
+}
+.conimg1 {
+  margin-right: 5rem;
+  width: 20%;
+  height: 20%;
+}
+.conimg1 img {
+  border-radius: 15px;
+  box-shadow: 0 12px 8px -12px #000;
+}
+.conimg2 {
+  margin-right: 5rem;
+  height: 20%;
+  width: 20%;
+}
+.conimg2 img {
+  border-radius: 15px;
+  box-shadow: 0 12px 8px -12px #000;
+}
+.conimg3 {
+  /* margin-right: 3rem; */
+  height: 20%;
+  width: 20%;
+}
+.conimg3 img {
+  border-radius: 15px;
+  box-shadow: 0 12px 8px -12px #000;
+}
+
+.con-footer-button {
+  margin-left: 31rem;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  font-size: 17px;
+  padding: 10px 50px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  background-color: #f4ce14;
+  border: none;
+  border-radius: 15px;
+}
+.con-footer-button:hover {
+  background-color: #495e57;
+}
+.con-footer-button:active {
+  background-color: #495e57;
+  transform: translate(4px);
+}

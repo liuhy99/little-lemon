@@ -1,0 +1,44 @@
+.footer {
+  margin-top: 2rem;
+  background-color: #495e57;
+  height: 20rem;
+  display: flex;
+}
+.footerimg {
+  margin-top: 4rem;
+  margin-left: 7rem;
+  height: 150px;
+  width: 100px;
+}
+.sitemap {
+  margin-top: 4rem;
+  margin-left: 7rem;
+  color: white;
+}
+.sitemap .sitemap1 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.contactus {
+  margin-left: 7rem;
+  margin-top: 4rem;
+  color: white;
+}
+.contactus .contactus1 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.connect {
+  margin-left: 7rem;
+  margin-top: 4rem;
+  color: white;
+}
+.connect .connect1 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
